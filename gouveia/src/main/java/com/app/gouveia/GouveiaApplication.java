@@ -1,0 +1,13 @@
+package com.app.gouveia;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class GouveiaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(GouveiaApplication.class, args);
+	}
+
+}
